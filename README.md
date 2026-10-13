@@ -1,4 +1,4 @@
-# Portfolio Project 2: Advanced Spreadsheet Data Cleaning & HR Operations Dashboard
+# Advanced Spreadsheet Data Cleaning & HR Operations Dashboard
 
 ## Executive Summary
 This project takes a raw, messy operational/financial human resources ledger and transforms it into an automated, stakeholder-ready reporting workbook. Built entirely using advanced spreadsheet formulas, data cleaning pipelines, custom conditional formatting, dynamic multi-table Pivot structures, and a global synchronized Slicer dashboard architecture.
